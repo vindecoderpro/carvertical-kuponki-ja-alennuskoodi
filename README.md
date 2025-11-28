@@ -36,9 +36,9 @@ console.log(codes)
 
 ## Available Discount Codes
 
-| Country | Website | Page | Title | Button | Discount Code |
-|---------|---------|------|-------|--------|---------------|
-| Finland | [autonhistoria.fi](https://autonhistoria.fi/) | [carvertical-kuponki-ja-alennuskoodi](https://autonhistoria.fi/carvertical-kuponki-ja-alennuskoodi/) | carVertical Kuponki ja Alennuskoodi | carVertical Alennuskoodi | AUTONHISTORIA |
+| Country | Website | Page | Title | Button | Discount Code | Percentage |
+|---------|---------|------|-------|--------|---------------|------------|
+| Finland | [autonhistoria.fi](https://autonhistoria.fi/) | [carvertical-kuponki-ja-alennuskoodi](https://autonhistoria.fi/carvertical-kuponki-ja-alennuskoodi/) | carVertical Kuponki ja Alennuskoodi | carVertical Alennuskoodi | AUTONHISTORIA | 20% |
 
 ## About
 
@@ -47,4 +47,5 @@ carvertical-kuponki-ja-alennuskoodi was created by the team at [VIN Decoder Pro]
 ## License
 
 MIT
+
 

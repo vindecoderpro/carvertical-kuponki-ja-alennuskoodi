@@ -10,9 +10,11 @@ const discountCodes = [
     page: 'https://autonhistoria.fi/carvertical-kuponki-ja-alennuskoodi/',
     title: 'carVertical Kuponki ja Alennuskoodi',
     button: 'carVertical Alennuskoodi',
-    discount_code: 'AUTONHISTORIA'
+    discount_code: 'AUTONHISTORIA',
+    percentage: '20%'
   }
 ];
 
 module.exports = discountCodes;
+
 
